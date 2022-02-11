@@ -4,7 +4,7 @@ This project was done as a part of CSCI-B-551 Elements of Artificial Intelligenc
 
 ## Command to run the program ##
 
-python3 ./label.py training_file testing_file
+python3 main.py knn
 
 ## Overview of Solution ##
 
